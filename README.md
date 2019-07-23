@@ -7,7 +7,7 @@
 
 
 ### Running WAMP
-1. Start the newly installed WAMP application.
+* Start the newly installed WAMP application.
     * You can either
         1. Select WAMP from the start menu
         2. Execute the following command in the terminal:
@@ -19,8 +19,8 @@
 3. press enter
 
 ### Manage databases
-3. Select the `databases` tab
-4. Create a database named `wordpress`.
+1. Select the `databases` tab
+2. Create a database named `wordpress`.
 
 ### Download Wordprss
 1. Download [wordpress.zip](https://wordpress.org/latest.zip)
