@@ -38,7 +38,7 @@
 	* `mkdir ~/dev` 
 * Clone this repository into your `~/dev` directory.
 * Execute the following command from your _git bash_ terminal 
-	* `"C:\Program Files\Microsoft VS Code\Code.exe" ~/dev/wordpress-installation/installer.bat`
+	* `start ~/dev/wordpress-installation/installer.bat`
 
 
 
