@@ -57,7 +57,10 @@ echo "Cloning new wordpress folder"
 
 git clone https://github.com/CodeDifferently/wordpress-initializer "C:\wamp64\www\wordpress"
 
-mv "%cd%\change-remote.bat" "C:\wamp64\www\wordpress"
+mv "./change-remote.bat" "C:\wamp64\www\wordpress"
+start "C:\wamp64\www\wordpress\change-remote.bat"
+
+
 
 
 
