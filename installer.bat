@@ -54,11 +54,7 @@ rm -rf "C:\wamp64\www\wordpress"
 echo "------------------------------------------"
 echo "Cloning new wordpress folder"
 
-git clone
-
-https://github.com/CodeDifferently/wordpress-initializer
-
-"C:\wamp64\www\wordpress"
+git clone https://github.com/CodeDifferently/wordpress-initializer "C:\wamp64\www\wordpress"
 
 
 
