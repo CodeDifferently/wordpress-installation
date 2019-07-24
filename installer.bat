@@ -63,7 +63,7 @@ git clone https://github.com/CodeDifferently/wordpress-initializer "C:\wamp64\ww
 
 echo "------------------------------------------"
 echo "opening Wordpress application in Chrome"
-start chrome http://localhost/wordpress
+start chrome http://localhost/wordpress/wp-admin
 
 
 
