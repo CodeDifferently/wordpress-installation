@@ -30,7 +30,7 @@
 
 <hr><hr><hr>
 
-## Install Wordpress
+## Create Fresh Wordpress Installation
 
 ### Part 1 - Clone repository
 * **DO NOTE** _fork_ this project.
@@ -42,6 +42,7 @@
 
 * Execute the following command from your _git bash_ terminal 
 	* `start ~/dev/wordpress-installation/installer.bat`
+* From your browser, navigate to `localhost/wordpress'
 
 
 
