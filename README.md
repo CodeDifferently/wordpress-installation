@@ -32,12 +32,23 @@
 
 ## Install Wordpress
 
-## Part 1 - Clone repository
+### Part 1 - Clone repository
 * **DO NOTE** _fork_ this project.
 * Create a `dev` directory with the following command
 	* `mkdir ~/dev` 
 * Clone this repository into your `~/dev` directory.
-* Execute the following command from your _git bash_ terminal
-	* `del -f "~/dev/wordpress-installation/.git"` 
+* Execute the following command from your _git bash_ terminal 
 	* `"C:\Program Files\Microsoft VS Code\Code.exe" ~/dev/wordpress-installation/installer.bat`
-	* edit line 59 of `installer.bat` to clone _your_ `wordpress-initializer`
+
+
+
+<hr><hr><hr>
+
+## Instructions Under Construction!
+<s>
+### Part 1 - Create a New Repository
+1. Navigate to `https://github.com/new` to create a new repository.
+2. **DO NOT** initialize the repository with a `README.md`
+3. Name the repository `my-first-wordpress`
+3. After creating the repository, copy the _URI_.
+</s>
