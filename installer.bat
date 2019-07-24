@@ -62,7 +62,7 @@ echo "------------------------------------------"
 echo "opening wordpress folder in VSCode"
 rm -f "~/dev/wordpress-installation/.git"
 
-"C:\Program Files\Microsoft VS Code\Code.exe" "/c/wamp64/www/wordpress" &
+"C:\Program Files\Microsoft VS Code\Code.exe" "C:\wamp64\www\wordpress" &
 
 exit
 
