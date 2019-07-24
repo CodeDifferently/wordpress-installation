@@ -1,3 +1,4 @@
+<html>
 <script>
 function copy(elementId) {
   var copyText = document.getElementById(elementId);
@@ -69,3 +70,5 @@ function copy(elementId) {
 3. Set `password` to `1`
 4. Set `email`
 5. Log in
+
+</html>
