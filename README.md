@@ -37,6 +37,10 @@
 * Create a `dev` directory with the following command
 	* `mkdir ~/dev` 
 * Clone this repository into your `~/dev` directory.
+	* ```
+	git clone https://github.com/CodeDifferently/wordpress-installation.git
+	```
+
 * Execute the following command from your _git bash_ terminal 
 	* `start ~/dev/wordpress-installation/installer.bat`
 
