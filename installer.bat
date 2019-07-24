@@ -58,11 +58,21 @@ git clone https://github.com/CodeDifferently/wordpress-initializer "C:\wamp64\ww
 
 
 
+
+
+echo "------------------------------------------"
+echo "opening Wordpress application in Chrome"
+start chrome http://localhost/wordpress
+
+
+
+
 echo "------------------------------------------"
 echo "opening wordpress folder in VSCode"
 rm -f "~/dev/wordpress-installation/.git"
 
 "C:\Program Files\Microsoft VS Code\Code.exe" "C:\wamp64\www\wordpress" &
+
 
 exit
 
