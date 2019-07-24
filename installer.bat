@@ -43,6 +43,7 @@ echo "------------------------------------------"
 echo "starting new wampmanager process"
 
 start "C:\wampmanager.exe"
+start "C:\wamp64\wampmanager.exe"
 
 
 
